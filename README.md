@@ -7,7 +7,7 @@ Yeah, don't expect anything special here
 
 Anyway, here's some R code to demonstrate how the "stop()" function works:  
 
-```r
+```R
 Okay <- FALSE
 
 if (Okay == FALSE) {
