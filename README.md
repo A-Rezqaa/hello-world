@@ -5,9 +5,9 @@ My (and probably everyone else's) first git
 
 Yeah, don't expect anything special here
 
-Anyway, here's some R code to demonstrate how the "stop()" function works:
+Anyway, here's some R code to demonstrate how the "stop()" function works:  
 
-```
+```r
 Okay <- FALSE
 
 if (Okay == FALSE) {
